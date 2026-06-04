@@ -15,21 +15,8 @@ export const metadata: Metadata = {
   title: 'Lowcountry Holdings | Business Acquisition & Consulting in Charleston',
   description: 'A Charleston-based holding company helping business owners transition into retirement. We acquire established businesses and offer consulting services to improve profitability.',
   icons: {
-    icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
-      {
-        url: '/icon.svg',
-        type: 'image/svg+xml',
-      },
-    ],
-    apple: '/apple-icon.png',
+    icon: '/palmtree.png',
+    apple: '/palmtree.png',
   },
 }
 
