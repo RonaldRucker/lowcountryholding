@@ -21,7 +21,7 @@ export function Header() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-4 lg:px-8">
         <Link href="/" className="flex items-center gap-2">
           <span className="font-serif text-xl font-semibold text-foreground tracking-tight">
-            Lowcountry Holdings
+            Lowcountry Holding Company
           </span>
         </Link>
 
